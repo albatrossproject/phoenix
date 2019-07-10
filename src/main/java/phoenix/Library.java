@@ -4,6 +4,9 @@
 package phoenix;
 
 public class Library {
+	public static void main(String[] args) {
+		System.err.println("hello   abdou");
+	}
     public boolean someLibraryMethod() {
         return true;
     }
